@@ -28,6 +28,8 @@ Este é um projeto simples de **cadastro de produtos**, desenvolvido com o objet
 
 *A interface foi desenhada com o Qt Designer e conectada ao Python via PyQt5.*
 
+#Não coloquei a senha utilizada no meu banco de dados no git.
+
 
 
 
