@@ -8,7 +8,7 @@ numero_id = 0 #global
 banco = mysql.connector.connect(
     host="localhost",
     user="root",
-    passwd="J#17ifba",
+    passwd="",
     database="cadastro_produtos"
 )
 
